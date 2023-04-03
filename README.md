@@ -14,7 +14,7 @@
   <li>Currently in 2nd year of BTS SNIR. 🖥️</li>
   <li>Looking for a firm to do my work-study program that starts september. 🏢</li>
   <li>I use both Linux and Windows. 💽</li>
-  <li>I'm also the guitar and the bass guitar player ! 🎸</li>
+  <li>Also a guitar and bass guitar player. 🎸</li>
 </ul>
 </div>
 
