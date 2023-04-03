@@ -16,6 +16,7 @@
   <li>I use both Linux and Windows. 💽</li>
   <li>I'm also the guitar and the bass guitar player ! 🎸</li>
 </ul>
+</div>
 
 ## ⌞Languages and tools⌝
 <div id="icons" align="center">
