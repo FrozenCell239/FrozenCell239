@@ -25,6 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="Apache 2" width="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Markdown" width="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="60"/>
