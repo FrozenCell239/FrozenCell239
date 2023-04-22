@@ -7,7 +7,7 @@
   </div>
 </div>
 
-## ⌞About me⌝
+## ⌞ About me ⌝
 <div id="about">
 <p>Hi there ! I'm a french student and a future Full Stack Developper.</p>
 <ul>
@@ -18,7 +18,7 @@
 </ul>
 </div>
 
-## ⌞Languages and tools⌝
+## ⌞ Languages and tools ⌝
 <div id="icons" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML 5" width="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS 3" width="60"/>
