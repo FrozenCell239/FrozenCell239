@@ -11,8 +11,9 @@
 <div id="about">
 <p>Hi there ! I'm a french student and a future Full Stack Developper.</p>
 <ul>
-  <li>Currently in 2nd year of BTS SNIR. 🖥️</li>
-  <li>Looking for a firm to do my work-study program that starts september. 🏢</li>
+  <li>BTS SNIR graduated. 💻</li>
+  <li>Currently in first year of bachelor's degree. 🖥️</li>
+  <li>Looking for a firm to do my work-study program. 🏢</li>
   <li>I use both Linux and Windows. 💽</li>
   <li>Also a guitar and bass guitar player. 🎸</li>
 </ul>
