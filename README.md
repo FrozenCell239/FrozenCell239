@@ -31,7 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="60">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql-original.svg" alt="PostGreSQL" width="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostGreSQL" width="60">
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="Apache 2" width="60">
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Markdown" width="60">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="60">
